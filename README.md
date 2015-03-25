@@ -1,1 +1,3 @@
-# barcoin
+FooCoin (FOO)
+
+Blah, blah, blah.
